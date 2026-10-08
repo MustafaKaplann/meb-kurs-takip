@@ -1,4 +1,11 @@
 {
-  "initialized": false,
-  "seen": {}
+  "initialized": true,
+  "seen": {
+    "4855612": {
+      "kurs_adi": "Havuz Suyu Operatörlüğü",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "11/11/2026"
+    }
+  }
 }
