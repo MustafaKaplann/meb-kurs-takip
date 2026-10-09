@@ -1,6 +1,6 @@
 # meb-kurs-takip
 
-Checks the [MEB e-Yaygın course list](https://e-yaygin.meb.gov.tr/pageKurslar.aspx) every hour with GitHub Actions and sends a Telegram message for **new** courses.
+Checks the [MEB e-Yaygın course list](https://e-yaygin.meb.gov.tr/pageKurslar.aspx) every 15 minutes with GitHub Actions and sends a Telegram message for **new** courses.
 
 ## What it reports
 
@@ -30,7 +30,7 @@ The token appears nowhere in the code.
 
 ## Usage
 
-- **Automatic:** runs every hour (`0 * * * *`). GitHub may start it a few minutes late.
+- **Automatic:** runs every 15 minutes (`*/15 * * * *`). GitHub may start it a few minutes late.
 - **Manual:** Actions → *Check MEB Courses* → *Run workflow*.
   - Tick `test_telegram` to send only a test message.
 - **Local test:** `pip install -r requirements.txt && python scraper.py` shows course counts per district and the matching 🚨 courses.
