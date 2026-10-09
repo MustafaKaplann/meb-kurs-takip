@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "initialized": true,
   "seen": {
     "4855612": {
@@ -6,6 +7,408 @@
       "ilce": "Yenişehir",
       "baslangic": "12/10/2026",
       "bitis": "11/11/2026"
+    },
+    "4844250": {
+      "kurs_adi": "Besi Sığırcılığı",
+      "ilce": "Mezitli",
+      "baslangic": "02/11/2026",
+      "bitis": "23/11/2026"
+    },
+    "4863348": {
+      "kurs_adi": "Çıpıt Dokuma",
+      "ilce": "Mezitli",
+      "baslangic": "12/10/2026",
+      "bitis": "28/12/2026"
+    },
+    "4864821": {
+      "kurs_adi": "Giyim Üretiminde Temel İşlemler",
+      "ilce": "Mezitli",
+      "baslangic": "12/10/2026",
+      "bitis": "10/11/2026"
+    },
+    "4866368": {
+      "kurs_adi": "Cilt Bakım Uygulayıcısı",
+      "ilce": "Mezitli",
+      "baslangic": "13/10/2026",
+      "bitis": "10/02/2027"
+    },
+    "4866381": {
+      "kurs_adi": "Cilt Bakım Uygulayıcısı",
+      "ilce": "Mezitli",
+      "baslangic": "13/10/2026",
+      "bitis": "11/02/2027"
+    },
+    "4869953": {
+      "kurs_adi": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
+      "ilce": "Mezitli",
+      "baslangic": "15/10/2026",
+      "bitis": "16/10/2026"
+    },
+    "4867725": {
+      "kurs_adi": "Katı, Sıvı Ve Doğal Gaz Yakıtlı Kalorifer Ateşçisi",
+      "ilce": "Mezitli",
+      "baslangic": "15/10/2026",
+      "bitis": "31/12/2026"
+    },
+    "4869402": {
+      "kurs_adi": "Mozaik",
+      "ilce": "Mezitli",
+      "baslangic": "19/10/2026",
+      "bitis": "19/11/2026"
+    },
+    "4868473": {
+      "kurs_adi": "Türk İşaret Dili (Tid) Kurs Programı",
+      "ilce": "Mezitli",
+      "baslangic": "19/10/2026",
+      "bitis": "01/12/2026"
+    },
+    "4868236": {
+      "kurs_adi": "Yetişkinler I. Kademe Okuma Yazma Öğretimi Ve Temel Eğitim Programı",
+      "ilce": "Mezitli",
+      "baslangic": "19/10/2026",
+      "bitis": "14/12/2026"
+    },
+    "4868253": {
+      "kurs_adi": "Yetişkinler II. Kademe Temel Eğitim Programı",
+      "ilce": "Mezitli",
+      "baslangic": "19/10/2026",
+      "bitis": "06/01/2027"
+    },
+    "4867645": {
+      "kurs_adi": "Yuvarlak Örme Konfeksiyon Makineci",
+      "ilce": "Mezitli",
+      "baslangic": "19/10/2026",
+      "bitis": "08/01/2027"
+    },
+    "4869198": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Mezitli",
+      "baslangic": "20/10/2026",
+      "bitis": "10/11/2026"
+    },
+    "4869226": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Mezitli",
+      "baslangic": "21/10/2026",
+      "bitis": "12/11/2026"
+    },
+    "4849647": {
+      "kurs_adi": "Adli Takip Elemanı",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "07/01/2027"
+    },
+    "4847099": {
+      "kurs_adi": "Ahşap Hediyelik Eşya Yapımı",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "03/02/2027"
+    },
+    "4846737": {
+      "kurs_adi": "Değirmencilik Ürünleri ve Unlu Mamuller Üretimi",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "11/02/2027"
+    },
+    "4851860": {
+      "kurs_adi": "Filografi (Orta/Ağır Düzey - Zihin Yetersizliği)",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "29/12/2026"
+    },
+    "4847067": {
+      "kurs_adi": "Fön Çekimi",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "19/11/2026"
+    },
+    "4855076": {
+      "kurs_adi": "İngilizce A2 Seviyesi",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "01/03/2027"
+    },
+    "4851857": {
+      "kurs_adi": "İngilizce B1 Seviyesi",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "18/12/2026"
+    },
+    "4852353": {
+      "kurs_adi": "Kadın Pantolon Dikimi",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "29/01/2027"
+    },
+    "4852448": {
+      "kurs_adi": "Kadın Pantolon Dikimi",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "01/12/2026"
+    },
+    "4852142": {
+      "kurs_adi": "Kadın Pantolon Dikimi",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "28/01/2027"
+    },
+    "4855712": {
+      "kurs_adi": "Matematiksel Yetkinlik Ve Fen Ve Teknolojideki Temel Yeterlilikler",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "24/11/2026"
+    },
+    "4854842": {
+      "kurs_adi": "Pilates Eğitimi (1. Seviye)",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "02/03/2027"
+    },
+    "4854849": {
+      "kurs_adi": "Pilates Eğitimi (1. Seviye)",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "02/03/2027"
+    },
+    "4846762": {
+      "kurs_adi": "Türk Motifleri",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "31/12/2026"
+    },
+    "4838579": {
+      "kurs_adi": "Yetişkinler II. Kademe Temel Eğitim Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "05/10/2026",
+      "bitis": "12/11/2026"
+    },
+    "4845946": {
+      "kurs_adi": "Değerlerime Sahip Çıkıyorum",
+      "ilce": "Yenişehir",
+      "baslangic": "07/10/2026",
+      "bitis": "26/11/2026"
+    },
+    "4845948": {
+      "kurs_adi": "Değerlerime Sahip Çıkıyorum",
+      "ilce": "Yenişehir",
+      "baslangic": "07/10/2026",
+      "bitis": "19/11/2026"
+    },
+    "4847655": {
+      "kurs_adi": "Emlak Danışmanlığı",
+      "ilce": "Yenişehir",
+      "baslangic": "08/10/2026",
+      "bitis": "26/11/2026"
+    },
+    "4862182": {
+      "kurs_adi": "Ağaç Baston Yapımı",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "12/11/2026"
+    },
+    "4862279": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "02/11/2026"
+    },
+    "4862385": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "03/11/2026"
+    },
+    "4864345": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "02/11/2026"
+    },
+    "4853757": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "30/10/2026"
+    },
+    "4864333": {
+      "kurs_adi": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "12/10/2026"
+    },
+    "4853109": {
+      "kurs_adi": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "13/10/2026"
+    },
+    "4861527": {
+      "kurs_adi": "İngilizce A1 Seviyesi",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "23/11/2026"
+    },
+    "4859924": {
+      "kurs_adi": "İngilizce A2 Seviyesi",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "25/11/2026"
+    },
+    "4861608": {
+      "kurs_adi": "İngilizce A2 Seviyesi",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "26/11/2026"
+    },
+    "4861590": {
+      "kurs_adi": "Matematiksel Yetkinlik Ve Fen Ve Teknolojideki Temel Yeterlilikler",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "01/12/2026"
+    },
+    "4861208": {
+      "kurs_adi": "Rusça A1 Seviyesi",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "12/11/2026"
+    },
+    "4860570": {
+      "kurs_adi": "Yetişkinler II. Kademe Temel Eğitim Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "02/12/2026"
+    },
+    "4856672": {
+      "kurs_adi": "36-72 Ay (3-6 Yaş) Oyun Odası",
+      "ilce": "Yenişehir",
+      "baslangic": "12/10/2026",
+      "bitis": "14/01/2027"
+    },
+    "4866157": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "13/10/2026",
+      "bitis": "04/11/2026"
+    },
+    "4869620": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "13/10/2026",
+      "bitis": "02/11/2026"
+    },
+    "4863763": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "13/10/2026",
+      "bitis": "03/11/2026"
+    },
+    "4857483": {
+      "kurs_adi": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "13/10/2026",
+      "bitis": "13/10/2026"
+    },
+    "4867125": {
+      "kurs_adi": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "13/10/2026",
+      "bitis": "13/10/2026"
+    },
+    "4860484": {
+      "kurs_adi": "Güzellik Ve Saç Bakım Hizmetlerinde Çalışanlar İçin Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "13/10/2026",
+      "bitis": "13/10/2026"
+    },
+    "4869079": {
+      "kurs_adi": "İnsan Kaynakları Elemanı Geliştirme Ve Uyum Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "13/10/2026",
+      "bitis": "28/10/2026"
+    },
+    "4858590": {
+      "kurs_adi": "Makinede Dantel Sarma Ve Piko Yapma",
+      "ilce": "Yenişehir",
+      "baslangic": "13/10/2026",
+      "bitis": "18/12/2026"
+    },
+    "4869102": {
+      "kurs_adi": "Ön Kasa Elemanı",
+      "ilce": "Yenişehir",
+      "baslangic": "13/10/2026",
+      "bitis": "21/12/2026"
+    },
+    "4869590": {
+      "kurs_adi": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "14/10/2026",
+      "bitis": "14/10/2026"
+    },
+    "4863054": {
+      "kurs_adi": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "14/10/2026",
+      "bitis": "14/10/2026"
+    },
+    "4867512": {
+      "kurs_adi": "Yetişkinler I. Kademe Okuma Yazma Öğretimi Ve Temel Eğitim Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "14/10/2026",
+      "bitis": "20/11/2026"
+    },
+    "4845057": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "19/10/2026",
+      "bitis": "06/11/2026"
+    },
+    "4844692": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "19/10/2026",
+      "bitis": "06/11/2026"
+    },
+    "4844496": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "19/10/2026",
+      "bitis": "06/11/2026"
+    },
+    "4845343": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "19/10/2026",
+      "bitis": "06/11/2026"
+    },
+    "4845315": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "19/10/2026",
+      "bitis": "06/11/2026"
+    },
+    "4867563": {
+      "kurs_adi": "Genel Jimnastik Ve Hareket Eğitimi (Başlangıç Düzey)",
+      "ilce": "Yenişehir",
+      "baslangic": "19/10/2026",
+      "bitis": "14/05/2027"
+    },
+    "4867698": {
+      "kurs_adi": "Tezhip (1. Seviye)",
+      "ilce": "Yenişehir",
+      "baslangic": "19/10/2026",
+      "bitis": "29/01/2027"
+    },
+    "4855678": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "21/10/2026",
+      "bitis": "07/11/2026"
+    },
+    "4864015": {
+      "kurs_adi": "Bilgisayar İşletmenliği (Operatörlüğü)",
+      "ilce": "Yenişehir",
+      "baslangic": "21/10/2026",
+      "bitis": "07/12/2026"
     }
   }
 }
