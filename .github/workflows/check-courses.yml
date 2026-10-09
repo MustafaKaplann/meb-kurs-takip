@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       test_telegram:
-        description: "Sadece Telegram test mesajı gönder"
+        description: "Sadece Telegram testi + örnek bildirimler gönder"
         type: boolean
         default: false
 
