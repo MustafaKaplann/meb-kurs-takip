@@ -469,6 +469,36 @@
       "ilce": "Mezitli",
       "baslangic": "21/10/2026",
       "bitis": "07/12/2026"
+    },
+    "4875251": {
+      "kurs_adi": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "20/10/2026",
+      "bitis": "20/10/2026"
+    },
+    "4874909": {
+      "kurs_adi": "Bilgisayar İşletmenliği (Operatörlüğü)",
+      "ilce": "Yenişehir",
+      "baslangic": "24/10/2026",
+      "bitis": "13/02/2027"
+    },
+    "4875109": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "26/10/2026",
+      "bitis": "13/11/2026"
+    },
+    "4875074": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "26/10/2026",
+      "bitis": "13/11/2026"
+    },
+    "4869642": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Yenişehir",
+      "baslangic": "26/10/2026",
+      "bitis": "13/11/2026"
     }
   }
 }
