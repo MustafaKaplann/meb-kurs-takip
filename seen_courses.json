@@ -535,6 +535,24 @@
       "ilce": "Mezitli",
       "baslangic": "23/10/2026",
       "bitis": "10/11/2026"
+    },
+    "4877210": {
+      "kurs_adi": "Yabancılar İçin Türkçe Seviye A1",
+      "ilce": "Mezitli",
+      "baslangic": "02/11/2026",
+      "bitis": "02/12/2026"
+    },
+    "4877209": {
+      "kurs_adi": "Almanca A1 Seviyesi",
+      "ilce": "Mezitli",
+      "baslangic": "22/10/2026",
+      "bitis": "20/11/2026"
+    },
+    "4877048": {
+      "kurs_adi": "Aile Okulu 1 Kurs Programı",
+      "ilce": "Mezitli",
+      "baslangic": "26/10/2026",
+      "bitis": "10/11/2026"
     }
   }
 }
