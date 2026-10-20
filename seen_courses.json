@@ -571,6 +571,36 @@
       "ilce": "Yenişehir",
       "baslangic": "21/10/2026",
       "bitis": "21/10/2026"
+    },
+    "4878638": {
+      "kurs_adi": "Bilgisayar İşletmenliği (Operatörlüğü)",
+      "ilce": "Mezitli",
+      "baslangic": "02/11/2026",
+      "bitis": "15/12/2026"
+    },
+    "4878735": {
+      "kurs_adi": "İngilizce A2 Seviyesi",
+      "ilce": "Mezitli",
+      "baslangic": "03/11/2026",
+      "bitis": "16/12/2026"
+    },
+    "4878589": {
+      "kurs_adi": "Yetişkinler II. Kademe Temel Eğitim Programı",
+      "ilce": "Mezitli",
+      "baslangic": "26/10/2026",
+      "bitis": "23/12/2026"
+    },
+    "4878524": {
+      "kurs_adi": "Maarif Modeli Ebeveyn Okulu Kurs Programı",
+      "ilce": "Mezitli",
+      "baslangic": "27/10/2026",
+      "bitis": "19/11/2026"
+    },
+    "4878533": {
+      "kurs_adi": "Maarif Modeli Ebeveyn Okulu Kurs Programı",
+      "ilce": "Mezitli",
+      "baslangic": "27/10/2026",
+      "bitis": "19/11/2026"
     }
   }
 }
