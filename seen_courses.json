@@ -631,6 +631,36 @@
       "ilce": "Yenişehir",
       "baslangic": "26/10/2026",
       "bitis": "24/11/2026"
+    },
+    "4879984": {
+      "kurs_adi": "Aile Okulu 2 Kurs Programı",
+      "ilce": "Mezitli",
+      "baslangic": "02/11/2026",
+      "bitis": "19/11/2026"
+    },
+    "4880000": {
+      "kurs_adi": "Tığ Örücülüğü",
+      "ilce": "Mezitli",
+      "baslangic": "02/11/2026",
+      "bitis": "27/01/2027"
+    },
+    "4879947": {
+      "kurs_adi": "Guaj Boya Resim",
+      "ilce": "Yenişehir",
+      "baslangic": "04/11/2026",
+      "bitis": "23/02/2027"
+    },
+    "4879937": {
+      "kurs_adi": "Pastel Boya Resim",
+      "ilce": "Yenişehir",
+      "baslangic": "04/11/2026",
+      "bitis": "23/02/2027"
+    },
+    "4879931": {
+      "kurs_adi": "Güzellik Ve Saç Bakım Hizmetlerinde Çalışanlar İçin Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "27/10/2026",
+      "bitis": "27/10/2026"
     }
   }
 }
