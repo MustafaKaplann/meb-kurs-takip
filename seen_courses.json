@@ -661,6 +661,24 @@
       "ilce": "Yenişehir",
       "baslangic": "27/10/2026",
       "bitis": "27/10/2026"
+    },
+    "4880730": {
+      "kurs_adi": "Sedef Kakma",
+      "ilce": "Yenişehir",
+      "baslangic": "02/11/2026",
+      "bitis": "05/01/2027"
+    },
+    "4879305": {
+      "kurs_adi": "Badminton (Başlangıç Düzeyi)",
+      "ilce": "Yenişehir",
+      "baslangic": "27/10/2026",
+      "bitis": "01/06/2027"
+    },
+    "4880613": {
+      "kurs_adi": "Sanayi Makinesinde Türk Nakışları",
+      "ilce": "Yenişehir",
+      "baslangic": "30/10/2026",
+      "bitis": "30/03/2027"
     }
   }
 }
