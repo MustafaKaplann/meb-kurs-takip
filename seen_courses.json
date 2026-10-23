@@ -691,6 +691,18 @@
       "ilce": "Mezitli",
       "baslangic": "02/11/2026",
       "bitis": "16/11/2026"
+    },
+    "4881308": {
+      "kurs_adi": "Bilgisayar İşletmenliği (Operatörlüğü)",
+      "ilce": "Yenişehir",
+      "baslangic": "02/11/2026",
+      "bitis": "28/12/2026"
+    },
+    "4881640": {
+      "kurs_adi": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
+      "ilce": "Yenişehir",
+      "baslangic": "02/11/2026",
+      "bitis": "02/11/2026"
     }
   }
 }
