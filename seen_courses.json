@@ -703,6 +703,24 @@
       "ilce": "Yenişehir",
       "baslangic": "02/11/2026",
       "bitis": "02/11/2026"
+    },
+    "4881859": {
+      "kurs_adi": "Maarif Modeli Ebeveyn Okulu Kurs Programı",
+      "ilce": "Mezitli",
+      "baslangic": "02/11/2026",
+      "bitis": "24/11/2026"
+    },
+    "4881802": {
+      "kurs_adi": "Protez Tırnak",
+      "ilce": "Mezitli",
+      "baslangic": "02/11/2026",
+      "bitis": "23/11/2026"
+    },
+    "4881873": {
+      "kurs_adi": "Maarif Modeli Ebeveyn Okulu Kurs Programı",
+      "ilce": "Mezitli",
+      "baslangic": "03/11/2026",
+      "bitis": "24/11/2026"
     }
   }
 }
